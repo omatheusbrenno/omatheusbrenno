@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Matheus Brenno
-- 👀 I’m interested in transform world
+- 👀 I’m interested in transform the world
 - 🌱 I’m currently learning Python and A.I
 - 💞️ I’m looking to collaborate on A.I projects
 - 📫 You can reach me on e-mail: matheusbrennolanasilva@gmail.com
