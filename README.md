@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Matheus Brenno
+- 👋 Hi, I’m Matheus Brenno de Lana Silva
 - 👀 I’m interested in transform the world
 - 🌱 I’m currently learning Python and A.I
 - 💞️ I’m looking to collaborate on A.I projects
