@@ -9,7 +9,8 @@ Me chamo Matheus Brenno de Lana Silva, tenho 22 anos e sou natural de Brasília.
         <img 
             alt="Conexões Linkedin" 
             title="Conecte-se comigo" 
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svgcolor=%23E05D44&label=Conectar-se&logo=linkedin&logoColor=white&style=for-the-badge&labelColor=CE4630"
+            src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-brenno-de-lana-silva-603b63260/"
+
         />      
     </a> 
    <a href="https://github.com/omatheusbrenno?tab=repositories&sort=stargazers">
@@ -144,11 +145,11 @@ Me chamo Matheus Brenno de Lana Silva, tenho 22 anos e sou natural de Brasília.
     src="https://github-readme-stats.vercel.app/api?username=omatheusbrenno&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      style="padding-right: 10px;"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=omatheusbrenno&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7" 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=omatheusbrenno&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7" 
   />
 
 </p>
