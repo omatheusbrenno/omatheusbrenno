@@ -10,7 +10,6 @@ Me chamo Matheus Brenno de Lana Silva, tenho 22 anos e sou natural de Brasília.
             alt="Conexões Linkedin" 
             title="Conecte-se comigo" 
             src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-brenno-de-lana-silva-603b63260/"
-
         />      
     </a> 
    <a href="https://github.com/omatheusbrenno?tab=repositories&sort=stargazers">
