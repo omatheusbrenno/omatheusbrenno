@@ -1,8 +1,8 @@
 # 👩🏻‍💻 Matheus Brenno
 
-**`Desenvolvedor Python`**
+**`Desenvolvedor Backend`**
 
-Me chamo Matheus Brenno de Lana Silva, tenho 22 anos e sou natural de Brasília. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIASSELVI.
+Me chamo Matheus Brenno de Lana Silva, tenho 22 anos e sou natural de Brasília. Recentemente cursei Análise e Desenvolvimento de Sistemas na UNIASSELVI.
 
 <p align="left">
       <a href="https://www.linkedin.com/in/matheus-brenno-de-lana-silva-603b63260/">
