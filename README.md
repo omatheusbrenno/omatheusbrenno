@@ -2,14 +2,14 @@
 
 **`Desenvolvedor Backend`**
 
-Me chamo Matheus Brenno de Lana Silva, tenho 22 anos e sou natural de Brasília. Recentemente cursei Análise e Desenvolvimento de Sistemas na UNIASSELVI.
+Me chamo Matheus Brenno de Lana Silva, tenho 22 anos e sou natural de Brasília. Recentemente cursei Análise e Desenvolvimento de Sistemas na UNIASSELVI e estou me preparando para iniciar um mestrado.
 
 <p align="left">
       <a href="https://www.linkedin.com/in/matheus-brenno-de-lana-silva-603b63260/">
         <img 
             alt="Conexões Linkedin" 
             title="Conecte-se comigo" 
-            src="https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-brenno-de-lana-silva-603b63260/"
+            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Perfil-blue?logo=linkedin&logoColor=white&style=for-the-badge&labelColor=0077B5"
         />      
     </a> 
    <a href="https://github.com/omatheusbrenno?tab=repositories&sort=stargazers">
@@ -34,35 +34,19 @@ Me chamo Matheus Brenno de Lana Silva, tenho 22 anos e sou natural de Brasília.
 
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="C#" 
+    title="C#"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
 />
 <img 
     align="left" 
-    alt="CSS" 
-    title="CSS"
+    alt=".NET"
+    title=".NET" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg"
 />
 <img 
     align="left" 
@@ -128,7 +112,14 @@ Me chamo Matheus Brenno de Lana Silva, tenho 22 anos e sou natural de Brasília.
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-
+<img 
+    align="left" 
+    alt="SQL" 
+    title="SQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"
+/>
 
 <br/>
 <br/>
@@ -150,5 +141,4 @@ Me chamo Matheus Brenno de Lana Silva, tenho 22 anos e sou natural de Brasília.
     style="padding-right: 10px;"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=omatheusbrenno&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7" 
   />
-
 </p>
