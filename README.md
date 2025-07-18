@@ -7,22 +7,22 @@ My name is Matheus Brenno de Lana Silva, I'm 22 years old and I'm from Brasília
 <p align="left">
       <a href="https://www.linkedin.com/in/matheus-brenno-de-lana-silva-603b63260/">
         <img 
-            alt="Conexões Linkedin" 
-            title="Conecte-se comigo" 
+            alt="Linkedin Connections" 
+            title="Connect with me" 
             src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Perfil-blue?logo=linkedin&logoColor=white&style=for-the-badge&labelColor=0077B5"
         />      
     </a> 
    <a href="https://github.com/omatheusbrenno?tab=repositories&sort=stargazers">
         <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
+            alt="Total stars" 
+            title="Total stars GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/omatheusbrenno?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
     <a href="https://github.com/omatheusbrenno?tab=followers">
         <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
+            alt="Followers" 
+            title="Follow me on GitHub" 
             src="https://custom-icon-badges.demolab.com/github/followers/omatheusbrenno?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
