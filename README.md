@@ -1,8 +1,8 @@
-# 👩🏻‍💻 Matheus Brenno
+# 👨🏻‍💻 Matheus Brenno
 
-**`Desenvolvedor Backend`**
+**`Backend Developer`**
 
-Me chamo Matheus Brenno de Lana Silva, tenho 22 anos e sou natural de Brasília. Recentemente cursei Análise e Desenvolvimento de Sistemas na UNIASSELVI e estou me preparando para iniciar um mestrado.
+My name is Matheus Brenno de Lana Silva, I'm 22 years old and I'm from Brasília - Federal District, Brazil. I have a degree in Systems Analysis and Development from UNIASSELVI and I'm preparing to start a master's degree.
 
 <p align="left">
       <a href="https://www.linkedin.com/in/matheus-brenno-de-lana-silva-603b63260/">
@@ -30,7 +30,7 @@ Me chamo Matheus Brenno de Lana Silva, tenho 22 anos e sou natural de Brasília.
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages and Technologies
 
 <img 
     align="left" 
@@ -124,7 +124,7 @@ Me chamo Matheus Brenno de Lana Silva, tenho 22 anos e sou natural de Brasília.
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 Statistics
 
 <p>
   <img 
