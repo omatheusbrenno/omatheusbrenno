@@ -32,94 +32,83 @@ My name is Matheus Brenno de Lana Silva, I'm 22 years old and I'm from Brasília
 
 ### 🤖 Languages and Technologies
 
-<img 
-    align="left" 
-    alt="C#" 
-    title="C#"
-    width="30px" 
-    style="padding-right: 10px;" 
+ <img 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
-/>
-<img 
-    align="left" 
-    alt=".NET"
+    alt="C#" 
+    title="C#" 
+    width="45px" 
+    height="45px"
+  />
+  <img 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" 
+    alt=".NET" 
     title=".NET" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg"
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
+    width="45px" 
+    height="45px"
+  />
+  <img 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Flask" 
-    title="Flask"
-    width="30px" 
-    style="padding-right: 10px;" 
+    alt="Python" 
+    title="Python" 
+    width="45px" 
+    height="45px"
+  />
+  <img 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" 
-/>
-<img 
-    align="left" 
+    alt="Flask" 
+    title="Flask" 
+    width="45px" 
+    height="45px"
+  />
+  <img 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" 
     alt="Selenium" 
-    title="Selenium"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg"         
-/>
-<img 
-    align="left" 
+    title="Selenium" 
+    width="45px" 
+    height="45px"
+  />
+  <img 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" 
     alt="TensorFlow" 
-    title="TensorFlow"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg"     
-/>
-<img 
-    align="left" 
-    alt="NumPy" 
-    title="NumPy"
-    width="30px" 
-    style="padding-right: 10px;" 
+    title="TensorFlow" 
+    width="45px" 
+    height="45px"
+  />
+  <img 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" 
-/>
-<img 
-    align="left" 
+    alt="NumPy" 
+    title="NumPy" 
+    width="45px" 
+    height="45px"
+  />
+  <img 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" 
     alt="Scikit-Learn" 
-    title="Scikit-Learn"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg"   
-/>
-<img 
-    align="left" 
+    title="Scikit-Learn" 
+    width="45px" 
+    height="45px"
+  />
+  <img 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" 
     alt="Pandas" 
-    title="Pandas"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"          
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
+    title="Pandas" 
+    width="45px" 
+    height="45px"
+  />
+  <img 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
+    alt="Git" 
+    title="Git" 
+    width="45px" 
+    height="45px"
+  />
+  <img 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
     alt="SQL" 
-    title="SQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"
-/>
+    title="SQL" 
+    width="45px" 
+    height="45px"
+  />
 
 <br/>
 <br/>
