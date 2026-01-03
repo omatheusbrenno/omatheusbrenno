@@ -27,22 +27,3 @@ Desenvolvedor Backend focado em APIs REST, integrações e sistemas escaláveis 
         />
     </a>
 </p>
-
-### 📊 Stats
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=omatheusbrenno&show_icons=true&theme=tokyonight&include_all_commits=true" 
-  />
-<img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=omatheusbrenno&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=8" 
-  />
-</p>
